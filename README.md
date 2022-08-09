@@ -3,6 +3,7 @@
 - 🔭 Atualmente buscando uma oportunidade de estágio ...
 - 🌱 Aprendendo HTML, CSS, JavaScript, NodeJs ...
 - Contato/Wpp : 11 965983294
+- obs: Escrevo sobre os projetos em inglês pra aprender mais do vocabulário técnico.
 
 
 <div align="center">
