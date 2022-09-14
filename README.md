@@ -4,11 +4,11 @@
 - 🌱 Aprendendo HTML, CSS, JavaScript, NodeJs ...
 - Contato/Wpp : 11 96598-3294
 - Obs: Escrevo sobre os projetos em inglês pra aprender mais do vocabulário técnico.
-
+<br>
 
 <div align="center">
   <a href="https://github.com/cleisondev">
-  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=cleisondev)](https://github.com/cleisondev/github-readme-stats)"/>
+  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleisondev)](https://github.com/cleisondev/github-readme-stats)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisondev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
