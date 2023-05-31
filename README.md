@@ -3,7 +3,6 @@
 - 🔭 Estagiário em programação na TMKT ...
 - 🌱 Estudando C#, Python, SQl...
 - Contato/Wpp : 11 96598-3294
-- Obs: Escrevo sobre os projetos em inglês pra aprender mais do vocabulário técnico.
 <br>
 
 <div align="center">
