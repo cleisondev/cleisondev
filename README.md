@@ -1,7 +1,7 @@
 ### Olá, sou Cleison da Silva Nunes.
 
 - 🔭 Analista de Desenvolvimento Jr ...
-- 🌱 Estudando .NET, C#, Java, TypeScript, Angular,SQL, ...
+- 🌱 Estudando C# .NET, Java, TypeScript,MongoDB,SQL, ...
 - Contato/Wpp : 11 96598-3294
 <br>
 
@@ -17,6 +17,7 @@
   <img align="center" alt="Cleison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Cleison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
   <img align="center" alt="Cleison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+   <img align="center" alt="Cleison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 ##
